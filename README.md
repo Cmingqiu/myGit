@@ -1,2 +1,0 @@
-# myGit
-Git学习
